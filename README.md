@@ -33,6 +33,7 @@ All Solutions
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anshxio/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0721-accounts-merge](https://github.com/anshxio/LeetCode/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/anshxio/LeetCode/tree/master/0827-making-a-large-island) |
 ## Hash Table
@@ -56,4 +57,8 @@ All Solutions
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/anshxio/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anshxio/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
