@@ -4,13 +4,10 @@ class Solution {
         int n = nums.length;
         while(r<n){
             if(nums[r] == 0) count++;
-            while(count > k){
-                if(nums[l] == 0){
-                    count--;
-                }
-                l++;
+            if(count > k){
+              if(nums[l] == 0) count--;
+              l++;  
             }
-           
             if(count <= k){
                 lnth = Math.max(lnth, r-l+1);
             }
