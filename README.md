@@ -39,6 +39,7 @@ All Solutions
 | [0904-fruit-into-baskets](https://github.com/anshxio/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/anshxio/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anshxio/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anshxio/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anshxio/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ All Solutions
 | [0904-fruit-into-baskets](https://github.com/anshxio/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/anshxio/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/anshxio/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anshxio/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshxio/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -81,6 +83,7 @@ All Solutions
 | [0904-fruit-into-baskets](https://github.com/anshxio/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/anshxio/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anshxio/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anshxio/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshxio/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anshxio/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
@@ -88,9 +91,14 @@ All Solutions
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/anshxio/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anshxio/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anshxio/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anshxio/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/anshxio/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/anshxio/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
