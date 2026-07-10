@@ -38,6 +38,7 @@ All Solutions
 | [0039-combination-sum](https://github.com/anshxio/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anshxio/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/anshxio/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/anshxio/LeetCode/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/anshxio/LeetCode/tree/master/0090-subsets-ii) |
 | [0721-accounts-merge](https://github.com/anshxio/LeetCode/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/anshxio/LeetCode/tree/master/0827-making-a-large-island) |
@@ -71,6 +72,7 @@ All Solutions
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/anshxio/LeetCode/tree/master/0047-permutations-ii) |
 | [0721-accounts-merge](https://github.com/anshxio/LeetCode/tree/master/0721-accounts-merge) |
 ## Matrix
 |  |
@@ -127,6 +129,7 @@ All Solutions
 | [0039-combination-sum](https://github.com/anshxio/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anshxio/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/anshxio/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/anshxio/LeetCode/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/anshxio/LeetCode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
