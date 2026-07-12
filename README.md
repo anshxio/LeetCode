@@ -119,6 +119,7 @@ All Solutions
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/anshxio/LeetCode/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/anshxio/LeetCode/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anshxio/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting
@@ -146,4 +147,8 @@ All Solutions
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/anshxio/LeetCode/tree/master/0131-palindrome-partitioning) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/anshxio/LeetCode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
