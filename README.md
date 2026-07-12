@@ -119,6 +119,7 @@ All Solutions
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/anshxio/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/anshxio/LeetCode/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/anshxio/LeetCode/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anshxio/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -150,5 +151,6 @@ All Solutions
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/anshxio/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/anshxio/LeetCode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
