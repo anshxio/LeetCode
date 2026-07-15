@@ -42,6 +42,7 @@ All Solutions
 | [0047-permutations-ii](https://github.com/anshxio/LeetCode/tree/master/0047-permutations-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshxio/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/anshxio/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/anshxio/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anshxio/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anshxio/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/anshxio/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -150,6 +151,7 @@ All Solutions
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/anshxio/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/anshxio/LeetCode/tree/master/0136-single-number) |
 ## Dynamic Programming
 |  |
 | ------- |
