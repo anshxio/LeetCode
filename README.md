@@ -43,6 +43,7 @@ All Solutions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshxio/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/anshxio/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/anshxio/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/anshxio/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anshxio/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anshxio/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/anshxio/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -59,6 +60,7 @@ All Solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshxio/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/anshxio/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/anshxio/LeetCode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshxio/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/anshxio/LeetCode/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/anshxio/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -80,6 +82,7 @@ All Solutions
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/anshxio/LeetCode/tree/master/0047-permutations-ii) |
+| [0169-majority-element](https://github.com/anshxio/LeetCode/tree/master/0169-majority-element) |
 | [0721-accounts-merge](https://github.com/anshxio/LeetCode/tree/master/0721-accounts-merge) |
 ## Matrix
 |  |
@@ -133,11 +136,13 @@ All Solutions
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anshxio/LeetCode/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anshxio/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshxio/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/anshxio/LeetCode/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
