@@ -1,22 +1,17 @@
 class Solution {
     public int rob(int[] nums) {
         int n = nums.length;
-        int [] dp = new int[n+1];
+        int [] dp  = new int[n+1];
         Arrays.fill(dp,-1);
-        return helper(n-1, nums,dp);
-    }
-    public int helper(int index, int[] nums,int[] dp){
-        if(index == 0){
-            return nums[index];
+        dp[0] = nums[0];
+        for(int i=1; i < n; i++){
+            int take = nums[i];
+            if(i > 1){
+                take += dp[i-2];
+            }
+            int nonTake = 0 + dp[i-1];
+            dp[i] = Math.max(take,nonTake);
         }
-        if( index < 0){
-            return 0;
-        }
-        if( dp[index] != -1){
-            return dp[index];
-        }
-        int pick = nums[index] + helper(index-2,nums,dp);
-        int notPick = 0 + helper(index-1,nums,dp);
-        return dp[index] = Math.max(pick, notPick);
+        return dp[n-1];
     }
 }
