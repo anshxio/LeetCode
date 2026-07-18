@@ -38,6 +38,7 @@ All Solutions
 | [0027-remove-element](https://github.com/anshxio/LeetCode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/anshxio/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anshxio/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/anshxio/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anshxio/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/anshxio/LeetCode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/anshxio/LeetCode/tree/master/0055-jump-game) |
@@ -163,6 +164,7 @@ All Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anshxio/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anshxio/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshxio/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshxio/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -179,6 +181,7 @@ All Solutions
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anshxio/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anshxio/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshxio/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
