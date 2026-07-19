@@ -51,6 +51,7 @@ All Solutions
 | [0189-rotate-array](https://github.com/anshxio/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/anshxio/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anshxio/LeetCode/tree/master/0213-house-robber-ii) |
+| [0274-h-index](https://github.com/anshxio/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/anshxio/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/anshxio/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0721-accounts-merge](https://github.com/anshxio/LeetCode/tree/master/0721-accounts-merge) |
@@ -89,6 +90,7 @@ All Solutions
 | ------- |
 | [0047-permutations-ii](https://github.com/anshxio/LeetCode/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/anshxio/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/anshxio/LeetCode/tree/master/0274-h-index) |
 | [0721-accounts-merge](https://github.com/anshxio/LeetCode/tree/master/0721-accounts-merge) |
 ## Matrix
 |  |
@@ -188,4 +190,8 @@ All Solutions
 | [0045-jump-game-ii](https://github.com/anshxio/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anshxio/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshxio/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/anshxio/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
