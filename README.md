@@ -140,6 +140,7 @@ All Solutions
 | ------- |
 | [0050-powx-n](https://github.com/anshxio/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/anshxio/LeetCode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/anshxio/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/anshxio/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anshxio/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anshxio/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -173,6 +174,7 @@ All Solutions
 | ------- |
 | [0045-jump-game-ii](https://github.com/anshxio/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anshxio/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/anshxio/LeetCode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshxio/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshxio/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/anshxio/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -205,4 +207,8 @@ All Solutions
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/anshxio/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/anshxio/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
