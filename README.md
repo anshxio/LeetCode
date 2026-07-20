@@ -51,6 +51,7 @@ All Solutions
 | [0189-rotate-array](https://github.com/anshxio/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/anshxio/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anshxio/LeetCode/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/anshxio/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/anshxio/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/anshxio/LeetCode/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anshxio/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -126,6 +127,7 @@ All Solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/anshxio/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/anshxio/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anshxio/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anshxio/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
