@@ -9,28 +9,25 @@ class Solution {
             return false;
         }
         int target = sum/2;
-        int[][] dp = new int[n][target+1];
-        for(int i =0; i< n; i++){
-            Arrays.fill(dp[i] , -1);
+        boolean[] prev = new boolean[target+1];
+        prev[0] = true;
+        if(nums[0] <= target){
+            prev[nums[0]] = true;
         }
-        return targetSum(n-1, nums,target, dp);
-    }
-    public boolean targetSum(int indx, int[] nums, int target,int [][] dp){
-        if(target == 0){
-            return true;
+        for(int i=1; i<n; i++){
+            boolean[] curr = new boolean[target + 1];
+            curr[0] = true;
+            for(int t = 1; t <= target; t++){
+                boolean notTake = prev[t];
+                boolean take = false;
+                if(nums[i] <= t){
+                    take = prev[t - nums[i]];
+                }
+                curr[t] = notTake || take;
+            }
+            prev = curr;
         }
-        if(indx == 0){
-            return nums[indx] == target;
-        }
-        if(dp[indx][target] != -1){
-            return dp[indx][target] == 1;
-        }
-        boolean notTake = targetSum(indx-1, nums, target,dp);
-        boolean take = false;
-        if(nums[indx] <= target){
-            take = targetSum(indx-1,nums, target - nums[indx],dp);
-        }
-        dp[indx][target] = take || notTake ? 1:0;
-        return take || notTake;
+        return prev[target];
+
     }
 }
