@@ -70,6 +70,7 @@ All Solutions
 | [1248-count-number-of-nice-subarrays](https://github.com/anshxio/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anshxio/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/anshxio/LeetCode/tree/master/1463-cherry-pickup-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ All Solutions
 | [0169-majority-element](https://github.com/anshxio/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/anshxio/LeetCode/tree/master/0274-h-index) |
 | [0721-accounts-merge](https://github.com/anshxio/LeetCode/tree/master/0721-accounts-merge) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -119,6 +121,7 @@ All Solutions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshxio/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/anshxio/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anshxio/LeetCode/tree/master/0283-move-zeroes) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -145,6 +148,7 @@ All Solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshxio/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/anshxio/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Math
 |  |
 | ------- |
@@ -179,6 +183,7 @@ All Solutions
 | ------- |
 | [0090-subsets-ii](https://github.com/anshxio/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/anshxio/LeetCode/tree/master/0136-single-number) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -194,6 +199,7 @@ All Solutions
 | [0213-house-robber-ii](https://github.com/anshxio/LeetCode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/anshxio/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [1463-cherry-pickup-ii](https://github.com/anshxio/LeetCode/tree/master/1463-cherry-pickup-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -227,4 +233,12 @@ All Solutions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anshxio/LeetCode/tree/master/0062-unique-paths) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
