@@ -103,6 +103,7 @@ All Solutions
 | [0274-h-index](https://github.com/anshxio/LeetCode/tree/master/0274-h-index) |
 | [0721-accounts-merge](https://github.com/anshxio/LeetCode/tree/master/0721-accounts-merge) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3536-maximum-product-of-two-digits](https://github.com/anshxio/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -158,6 +159,7 @@ All Solutions
 | [0189-rotate-array](https://github.com/anshxio/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anshxio/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anshxio/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [3536-maximum-product-of-two-digits](https://github.com/anshxio/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anshxio/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting
 |  |
