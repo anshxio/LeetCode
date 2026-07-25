@@ -90,6 +90,7 @@ All Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshxio/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0058-length-of-last-word](https://github.com/anshxio/LeetCode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/anshxio/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/anshxio/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshxio/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
