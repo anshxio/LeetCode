@@ -33,6 +33,7 @@ All Solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anshxio/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshxio/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshxio/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anshxio/LeetCode/tree/master/0027-remove-element) |
@@ -74,6 +75,7 @@ All Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anshxio/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshxio/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/anshxio/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/anshxio/LeetCode/tree/master/0169-majority-element) |
