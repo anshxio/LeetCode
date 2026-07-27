@@ -64,6 +64,7 @@ All Solutions
 | [0380-insert-delete-getrandom-o1](https://github.com/anshxio/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/anshxio/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/anshxio/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/anshxio/LeetCode/tree/master/0494-target-sum) |
 | [0721-accounts-merge](https://github.com/anshxio/LeetCode/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/anshxio/LeetCode/tree/master/0827-making-a-large-island) |
 | [0904-fruit-into-baskets](https://github.com/anshxio/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -186,6 +187,7 @@ All Solutions
 | [0047-permutations-ii](https://github.com/anshxio/LeetCode/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/anshxio/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/anshxio/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/anshxio/LeetCode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -207,6 +209,7 @@ All Solutions
 | [0213-house-robber-ii](https://github.com/anshxio/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/anshxio/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/anshxio/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/anshxio/LeetCode/tree/master/0494-target-sum) |
 | [1463-cherry-pickup-ii](https://github.com/anshxio/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Recursion
