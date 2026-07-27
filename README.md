@@ -40,6 +40,7 @@ All Solutions
 | [0027-remove-element](https://github.com/anshxio/LeetCode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/anshxio/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anshxio/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/anshxio/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anshxio/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anshxio/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/anshxio/LeetCode/tree/master/0047-permutations-ii) |
@@ -126,6 +127,7 @@ All Solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshxio/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anshxio/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/anshxio/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshxio/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/anshxio/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anshxio/LeetCode/tree/master/0283-move-zeroes) |
@@ -197,6 +199,7 @@ All Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anshxio/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anshxio/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anshxio/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/anshxio/LeetCode/tree/master/0062-unique-paths) |
@@ -257,4 +260,9 @@ All Solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anshxio/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anshxio/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/anshxio/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
