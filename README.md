@@ -100,6 +100,7 @@ All Solutions
 | [0020-valid-parentheses](https://github.com/anshxio/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/anshxio/LeetCode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/anshxio/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/anshxio/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/anshxio/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/anshxio/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshxio/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -132,6 +133,7 @@ All Solutions
 | [0027-remove-element](https://github.com/anshxio/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/anshxio/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshxio/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/anshxio/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/anshxio/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anshxio/LeetCode/tree/master/0283-move-zeroes) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
