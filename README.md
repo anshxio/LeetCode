@@ -66,6 +66,7 @@ All Solutions
 | [0380-insert-delete-getrandom-o1](https://github.com/anshxio/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/anshxio/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/anshxio/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/anshxio/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/anshxio/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/anshxio/LeetCode/tree/master/0518-coin-change-ii) |
 | [0721-accounts-merge](https://github.com/anshxio/LeetCode/tree/master/0721-accounts-merge) |
@@ -181,6 +182,7 @@ All Solutions
 | [0062-unique-paths](https://github.com/anshxio/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/anshxio/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anshxio/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/anshxio/LeetCode/tree/master/0486-predict-the-winner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anshxio/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/anshxio/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anshxio/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -226,6 +228,7 @@ All Solutions
 | [0213-house-robber-ii](https://github.com/anshxio/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/anshxio/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/anshxio/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/anshxio/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/anshxio/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/anshxio/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/anshxio/LeetCode/tree/master/0518-coin-change-ii) |
@@ -239,6 +242,7 @@ All Solutions
 | ------- |
 | [0050-powx-n](https://github.com/anshxio/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/anshxio/LeetCode/tree/master/0060-permutation-sequence) |
+| [0486-predict-the-winner](https://github.com/anshxio/LeetCode/tree/master/0486-predict-the-winner) |
 ## Number Theory
 |  |
 | ------- |
@@ -285,4 +289,8 @@ All Solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshxio/LeetCode/tree/master/0042-trapping-rain-water) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/anshxio/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
