@@ -104,6 +104,7 @@ All Solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshxio/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/anshxio/LeetCode/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/anshxio/LeetCode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/anshxio/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/anshxio/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/anshxio/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -223,6 +224,7 @@ All Solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshxio/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/anshxio/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/anshxio/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anshxio/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/anshxio/LeetCode/tree/master/0062-unique-paths) |
@@ -250,6 +252,7 @@ All Solutions
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/anshxio/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/anshxio/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/anshxio/LeetCode/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/anshxio/LeetCode/tree/master/0486-predict-the-winner) |
@@ -261,6 +264,7 @@ All Solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshxio/LeetCode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/anshxio/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/anshxio/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anshxio/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshxio/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
