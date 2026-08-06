@@ -311,4 +311,8 @@ All Solutions
 | ------- |
 | [0486-predict-the-winner](https://github.com/anshxio/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anshxio/LeetCode/tree/master/0877-stone-game) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/anshxio/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
