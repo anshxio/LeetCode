@@ -75,6 +75,7 @@ All Solutions
 | [0486-predict-the-winner](https://github.com/anshxio/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/anshxio/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/anshxio/LeetCode/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshxio/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/anshxio/LeetCode/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/anshxio/LeetCode/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/anshxio/LeetCode/tree/master/0877-stone-game) |
@@ -257,6 +258,7 @@ All Solutions
 | [0516-longest-palindromic-subsequence](https://github.com/anshxio/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/anshxio/LeetCode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/anshxio/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshxio/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/anshxio/LeetCode/tree/master/0877-stone-game) |
 | [1092-shortest-common-supersequence](https://github.com/anshxio/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anshxio/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -284,6 +286,7 @@ All Solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshxio/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/anshxio/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/anshxio/LeetCode/tree/master/0135-candy) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshxio/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/anshxio/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting Sort
 |  |
