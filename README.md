@@ -87,6 +87,7 @@ All Solutions
 | [0930-binary-subarrays-with-sum](https://github.com/anshxio/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anshxio/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/anshxio/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/anshxio/LeetCode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anshxio/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anshxio/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/anshxio/LeetCode/tree/master/1463-cherry-pickup-ii) |
@@ -188,6 +189,7 @@ All Solutions
 | [0238-product-of-array-except-self](https://github.com/anshxio/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/anshxio/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anshxio/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/anshxio/LeetCode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anshxio/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anshxio/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
@@ -206,6 +208,7 @@ All Solutions
 | [0380-insert-delete-getrandom-o1](https://github.com/anshxio/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/anshxio/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anshxio/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/anshxio/LeetCode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anshxio/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshxio/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/anshxio/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -268,6 +271,7 @@ All Solutions
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshxio/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/anshxio/LeetCode/tree/master/0877-stone-game) |
 | [1092-shortest-common-supersequence](https://github.com/anshxio/LeetCode/tree/master/1092-shortest-common-supersequence) |
+| [1140-stone-game-ii](https://github.com/anshxio/LeetCode/tree/master/1140-stone-game-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anshxio/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/anshxio/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -335,6 +339,7 @@ All Solutions
 | ------- |
 | [0486-predict-the-winner](https://github.com/anshxio/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anshxio/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/anshxio/LeetCode/tree/master/1140-stone-game-ii) |
 ## Database
 |  |
 | ------- |
@@ -345,4 +350,12 @@ All Solutions
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshxio/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/anshxio/LeetCode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/anshxio/LeetCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
