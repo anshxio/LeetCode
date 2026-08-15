@@ -93,6 +93,7 @@ All Solutions
 | [1463-cherry-pickup-ii](https://github.com/anshxio/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anshxio/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshxio/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/anshxio/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -243,6 +244,7 @@ All Solutions
 | [0090-subsets-ii](https://github.com/anshxio/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/anshxio/LeetCode/tree/master/0136-single-number) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshxio/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
 | ------- |
