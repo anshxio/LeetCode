@@ -84,6 +84,7 @@ All Solutions
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshxio/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/anshxio/LeetCode/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/anshxio/LeetCode/tree/master/0827-making-a-large-island) |
+| [0860-lemonade-change](https://github.com/anshxio/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/anshxio/LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/anshxio/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/anshxio/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -334,6 +335,7 @@ All Solutions
 | [0134-gas-station](https://github.com/anshxio/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/anshxio/LeetCode/tree/master/0135-candy) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshxio/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/anshxio/LeetCode/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/anshxio/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/anshxio/LeetCode/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anshxio/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
