@@ -100,6 +100,7 @@ All Solutions
 | [1563-stone-game-v](https://github.com/anshxio/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/anshxio/LeetCode/tree/master/1872-stone-game-viii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/anshxio/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anshxio/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshxio/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshxio/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -344,6 +345,7 @@ All Solutions
 | [0860-lemonade-change](https://github.com/anshxio/LeetCode/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/anshxio/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/anshxio/LeetCode/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/anshxio/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anshxio/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/anshxio/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting Sort
