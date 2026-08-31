@@ -10,47 +10,40 @@
  */
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
-
         ListNode prev = head;
-        ListNode curr = head.next;
-
+        ListNode temp = head.next;
         int index = 1;
-
-        int first = -1;
-        int prevCritical = -1;
-        int last = -1;
+        int firstPoint = -1;
+        int criticalPoint = -1;
+        int lastPoint = -1;
 
         int minDistance = Integer.MAX_VALUE;
 
-        while (curr.next != null) {
+        while(temp.next != null){
+            boolean isMax = prev.val < temp.val && temp.val > temp.next.val;
+            boolean isMin = prev.val > temp.val && temp.val < temp.next.val;
 
-            boolean isCritical = (curr.val > prev.val && curr.val > curr.next.val) ||
-                    (curr.val < prev.val && curr.val < curr.next.val);
+            if(isMax || isMin){
 
-            if (isCritical) {
-                if (first == -1) {
-                    first = index;
-                } else {
-                    minDistance = Math.min(
-                            minDistance,
-                            index - prevCritical);
+                if(firstPoint == -1){
+                    firstPoint = index;
+                    criticalPoint = index;
+                }else{
+                    minDistance = Math.min(minDistance, index - criticalPoint);
+                    criticalPoint = index;
+                    lastPoint = index;
                 }
-
-                prevCritical = index;
-                last = index;
             }
-
-            prev = curr;
-            curr = curr.next;
+            prev = temp;
+            temp = temp.next;
             index++;
         }
-        if (first == last) {
-            return new int[] {-1, -1};
+        if(lastPoint == -1){
+            return new int[]{-1,-1};
         }
 
-        return new int[] {
-                minDistance,
-                last - first
-        };
+        int maxDistance = lastPoint - firstPoint;
+
+        return new int[]{minDistance, maxDistance};
     }
 }
