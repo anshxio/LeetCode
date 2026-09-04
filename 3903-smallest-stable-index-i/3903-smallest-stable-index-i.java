@@ -1,34 +1,27 @@
 class Solution {
     public int firstStableIndex(int[] nums, int k) {
-        int stable = Integer.MAX_VALUE;
         int instableScore = 0;
-        for(int i =0; i<nums.length; i++){
-            instableScore = maximum(i,nums) - minimum(i,nums);
+        int[] prefix = new int[nums.length]; 
+        int[] suffix = new int[nums.length];
+
+        prefix[0] = nums[0];
+
+        for(int i =1; i<nums.length; i++){
+            prefix[i] = Math.max(prefix[i - 1], nums[i]);
+        }
+
+        suffix[nums.length-1] = nums[nums.length-1];
+
+        for(int i = nums.length-2; i>=0; i--){
+            suffix[i] = Math.min(suffix[i+1], nums[i]);
+        }
+
+        for(int i = 0; i<nums.length; i++){
+            instableScore = prefix[i] - suffix[i];
             if(instableScore <= k){
-                stable = Math.min(stable, i);
+                return i;
             }
         }
-        if(stable == Integer.MAX_VALUE){
-            return -1;
-        }
-        return stable;
-    }
-    public int minimum(int idx, int[]nums){
-        int mini = nums[idx];
-        for(int i = idx; i<nums.length; i++){
-            if(nums[i] < mini){
-                mini = nums[i];
-            }
-        }
-        return mini;
-    }
-    public int maximum(int idx, int[]nums){
-        int max = nums[0];
-        for(int i =0; i <= idx; i++){
-            if(nums[i] > max){
-                max = nums[i];
-            }
-        }
-        return max;
+        return -1;
     }
 }
