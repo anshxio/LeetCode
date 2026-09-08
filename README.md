@@ -45,6 +45,7 @@ All Solutions
 | [0011-container-with-most-water](https://github.com/anshxio/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshxio/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anshxio/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/anshxio/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/anshxio/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anshxio/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/anshxio/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -230,6 +231,7 @@ All Solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshxio/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/anshxio/LeetCode/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/anshxio/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/anshxio/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
