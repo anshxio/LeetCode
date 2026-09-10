@@ -4,7 +4,6 @@ class Solution {
         int end = nums.length-1;
         while(start <= end){
             int mid = start + (end - start)/2;
-            System.out.println("start = " + start + " end = " + end+ " mid = " + mid + " nums[mid] = " + nums[mid]);
             if(nums[mid] == target){
                 return true;
             }
