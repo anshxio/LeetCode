@@ -67,6 +67,7 @@ All Solutions
 | [0135-candy](https://github.com/anshxio/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/anshxio/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshxio/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/anshxio/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/anshxio/LeetCode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anshxio/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/anshxio/LeetCode/tree/master/0189-rotate-array) |
@@ -241,6 +242,7 @@ All Solutions
 | [0035-search-insert-position](https://github.com/anshxio/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshxio/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshxio/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/anshxio/LeetCode/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/anshxio/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshxio/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/anshxio/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
