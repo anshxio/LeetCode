@@ -111,6 +111,7 @@ All Solutions
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshxio/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anshxio/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshxio/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anshxio/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshxio/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshxio/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anshxio/LeetCode/tree/master/3731-find-missing-elements) |
@@ -136,6 +137,7 @@ All Solutions
 | [1248-count-number-of-nice-subarrays](https://github.com/anshxio/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshxio/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/anshxio/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anshxio/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshxio/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anshxio/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
@@ -348,6 +350,7 @@ All Solutions
 | [0050-powx-n](https://github.com/anshxio/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/anshxio/LeetCode/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/anshxio/LeetCode/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anshxio/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -426,6 +429,7 @@ All Solutions
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshxio/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anshxio/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anshxio/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Minimax
 |  |
