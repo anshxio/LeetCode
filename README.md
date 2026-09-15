@@ -95,6 +95,7 @@ All Solutions
 | [0827-making-a-large-island](https://github.com/anshxio/LeetCode/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/anshxio/LeetCode/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/anshxio/LeetCode/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/anshxio/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/anshxio/LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/anshxio/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/anshxio/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -249,6 +250,7 @@ All Solutions
 | [0162-find-peak-element](https://github.com/anshxio/LeetCode/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/anshxio/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshxio/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/anshxio/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/anshxio/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Math
