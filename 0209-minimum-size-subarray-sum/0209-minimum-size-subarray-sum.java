@@ -6,7 +6,7 @@ class Solution {
         int minLen = Integer.MAX_VALUE;
         while(j < nums.length){
             ans += nums[j];
-            System.out.println("ans = " + ans);
+            
             while(ans >= target){
                 ans -= nums[i];
                 minLen = Math.min(minLen, j-i+1);
