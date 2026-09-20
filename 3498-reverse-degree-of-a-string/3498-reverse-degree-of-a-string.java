@@ -1,13 +1,9 @@
 class Solution {
     public int reverseDegree(String s) {
-        int product = 1;
         int sum = 0;
         for(int i = 1; i <= s.length(); i++){
-            char ch = s.charAt(i-1);
-            product = i * (revDegree(ch));
-            System.out.println("product " + product);
+            int product = i * (revDegree(s.charAt(i-1)));
             sum += product;
-            System.out.println("sum " + sum);
         }
         return sum;
     }
