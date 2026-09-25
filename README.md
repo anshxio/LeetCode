@@ -12,6 +12,7 @@ All Solutions
 | [0110-balanced-binary-tree](https://github.com/anshxio/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anshxio/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/anshxio/LeetCode/tree/master/0200-number-of-islands) |
+| [0572-subtree-of-another-tree](https://github.com/anshxio/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0721-accounts-merge](https://github.com/anshxio/LeetCode/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/anshxio/LeetCode/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/anshxio/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -505,6 +506,7 @@ All Solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/anshxio/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/anshxio/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anshxio/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/anshxio/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -514,4 +516,13 @@ All Solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/anshxio/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/anshxio/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anshxio/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/anshxio/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/anshxio/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/anshxio/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
