@@ -13,6 +13,7 @@ All Solutions
 | [0111-minimum-depth-of-binary-tree](https://github.com/anshxio/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anshxio/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anshxio/LeetCode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anshxio/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anshxio/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/anshxio/LeetCode/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/anshxio/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -360,6 +361,7 @@ All Solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshxio/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshxio/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/anshxio/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anshxio/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/anshxio/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anshxio/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/anshxio/LeetCode/tree/master/0198-house-robber) |
@@ -519,6 +521,7 @@ All Solutions
 | [0111-minimum-depth-of-binary-tree](https://github.com/anshxio/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anshxio/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anshxio/LeetCode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anshxio/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anshxio/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/anshxio/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/anshxio/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -533,6 +536,7 @@ All Solutions
 | [0111-minimum-depth-of-binary-tree](https://github.com/anshxio/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anshxio/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anshxio/LeetCode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anshxio/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anshxio/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/anshxio/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/anshxio/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -544,4 +548,8 @@ All Solutions
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/anshxio/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anshxio/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
