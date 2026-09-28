@@ -532,6 +532,7 @@ All Solutions
 | [0257-binary-tree-paths](https://github.com/anshxio/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/anshxio/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anshxio/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/anshxio/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -550,6 +551,7 @@ All Solutions
 | [0257-binary-tree-paths](https://github.com/anshxio/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/anshxio/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anshxio/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/anshxio/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -581,4 +583,5 @@ All Solutions
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anshxio/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anshxio/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/anshxio/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
