@@ -203,6 +203,7 @@ All Solutions
 | [0856-score-of-parentheses](https://github.com/anshxio/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1048-longest-string-chain](https://github.com/anshxio/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/anshxio/LeetCode/tree/master/1092-shortest-common-supersequence) |
+| [1143-longest-common-subsequence](https://github.com/anshxio/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anshxio/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshxio/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshxio/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -402,6 +403,7 @@ All Solutions
 | [1048-longest-string-chain](https://github.com/anshxio/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/anshxio/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/anshxio/LeetCode/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/anshxio/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anshxio/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/anshxio/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1563-stone-game-v](https://github.com/anshxio/LeetCode/tree/master/1563-stone-game-v) |
@@ -621,4 +623,8 @@ All Solutions
 | [0450-delete-node-in-a-bst](https://github.com/anshxio/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anshxio/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anshxio/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/anshxio/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
