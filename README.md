@@ -150,6 +150,7 @@ All Solutions
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anshxio/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/anshxio/LeetCode/tree/master/1872-stone-game-viii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshxio/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshxio/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anshxio/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshxio/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -253,6 +254,7 @@ All Solutions
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anshxio/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/anshxio/LeetCode/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshxio/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/anshxio/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anshxio/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anshxio/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -340,6 +342,7 @@ All Solutions
 | [0875-koko-eating-bananas](https://github.com/anshxio/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/anshxio/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshxio/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
