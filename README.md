@@ -356,6 +356,7 @@ All Solutions
 | [1563-stone-game-v](https://github.com/anshxio/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/anshxio/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/anshxio/LeetCode/tree/master/1927-sum-game) |
+| [2235-add-two-integers](https://github.com/anshxio/LeetCode/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshxio/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/anshxio/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/anshxio/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
