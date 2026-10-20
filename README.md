@@ -82,6 +82,7 @@ All Solutions
 | [0045-jump-game-ii](https://github.com/anshxio/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anshxio/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/anshxio/LeetCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/anshxio/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anshxio/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/anshxio/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/anshxio/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -262,6 +263,7 @@ All Solutions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anshxio/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/anshxio/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/anshxio/LeetCode/tree/master/0200-number-of-islands) |
 | [0827-making-a-large-island](https://github.com/anshxio/LeetCode/tree/master/0827-making-a-large-island) |
@@ -346,6 +348,7 @@ All Solutions
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anshxio/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anshxio/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/anshxio/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/anshxio/LeetCode/tree/master/0062-unique-paths) |
