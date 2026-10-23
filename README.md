@@ -163,6 +163,7 @@ All Solutions
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anshxio/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anshxio/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anshxio/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/anshxio/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshxio/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshxio/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anshxio/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -415,6 +416,7 @@ All Solutions
 | [0187-repeated-dna-sequences](https://github.com/anshxio/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [1386-cinema-seat-allocation](https://github.com/anshxio/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/anshxio/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshxio/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
