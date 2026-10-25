@@ -158,6 +158,7 @@ All Solutions
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshxio/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshxio/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anshxio/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anshxio/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshxio/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anshxio/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -303,6 +304,7 @@ All Solutions
 | [0977-squares-of-a-sorted-array](https://github.com/anshxio/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/anshxio/LeetCode/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anshxio/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anshxio/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anshxio/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
@@ -588,6 +590,7 @@ All Solutions
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/anshxio/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anshxio/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshxio/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/anshxio/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Longest Increasing Subsequence
