@@ -305,6 +305,7 @@ All Solutions
 | [1048-longest-string-chain](https://github.com/anshxio/LeetCode/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anshxio/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/anshxio/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anshxio/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anshxio/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
@@ -379,6 +380,7 @@ All Solutions
 | [1872-stone-game-viii](https://github.com/anshxio/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/anshxio/LeetCode/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/anshxio/LeetCode/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/anshxio/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshxio/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/anshxio/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anshxio/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -733,4 +735,8 @@ All Solutions
 |  |
 | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anshxio/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/anshxio/LeetCode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
