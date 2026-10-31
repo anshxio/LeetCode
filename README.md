@@ -526,6 +526,7 @@ All Solutions
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/anshxio/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anshxio/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -549,6 +550,7 @@ All Solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/anshxio/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anshxio/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/anshxio/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/anshxio/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/anshxio/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anshxio/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -743,6 +745,7 @@ All Solutions
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/anshxio/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anshxio/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Brainteaser
 |  |
