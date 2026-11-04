@@ -496,6 +496,7 @@ All Solutions
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/anshxio/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/anshxio/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/anshxio/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/anshxio/LeetCode/tree/master/0060-permutation-sequence) |
@@ -621,6 +622,7 @@ All Solutions
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/anshxio/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anshxio/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anshxio/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Binary Indexed Tree
