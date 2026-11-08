@@ -28,6 +28,7 @@ All Solutions
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/anshxio/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anshxio/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/anshxio/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+| [1267-count-servers-that-communicate](https://github.com/anshxio/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/anshxio/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3310-remove-methods-from-project](https://github.com/anshxio/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -46,6 +47,7 @@ All Solutions
 | [0721-accounts-merge](https://github.com/anshxio/LeetCode/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/anshxio/LeetCode/tree/master/0827-making-a-large-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anshxio/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/anshxio/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/anshxio/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3310-remove-methods-from-project](https://github.com/anshxio/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -56,6 +58,7 @@ All Solutions
 | [0721-accounts-merge](https://github.com/anshxio/LeetCode/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/anshxio/LeetCode/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/anshxio/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1267-count-servers-that-communicate](https://github.com/anshxio/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/anshxio/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
@@ -151,6 +154,7 @@ All Solutions
 | [1048-longest-string-chain](https://github.com/anshxio/LeetCode/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/anshxio/LeetCode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anshxio/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1267-count-servers-that-communicate](https://github.com/anshxio/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anshxio/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/anshxio/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anshxio/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -294,6 +298,7 @@ All Solutions
 | [0200-number-of-islands](https://github.com/anshxio/LeetCode/tree/master/0200-number-of-islands) |
 | [0827-making-a-large-island](https://github.com/anshxio/LeetCode/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/anshxio/LeetCode/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/anshxio/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1463-cherry-pickup-ii](https://github.com/anshxio/LeetCode/tree/master/1463-cherry-pickup-ii) |
 ## Biconnected Component
 |  |
@@ -418,6 +423,7 @@ All Solutions
 | [0169-majority-element](https://github.com/anshxio/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/anshxio/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anshxio/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/anshxio/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Divide and Conquer
 |  |
 | ------- |
