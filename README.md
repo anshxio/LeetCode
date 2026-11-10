@@ -178,6 +178,7 @@ All Solutions
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anshxio/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/anshxio/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3668-restore-finishing-order](https://github.com/anshxio/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3693-climbing-stairs-ii](https://github.com/anshxio/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshxio/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshxio/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anshxio/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -507,6 +508,7 @@ All Solutions
 | [1872-stone-game-viii](https://github.com/anshxio/LeetCode/tree/master/1872-stone-game-viii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshxio/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anshxio/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3693-climbing-stairs-ii](https://github.com/anshxio/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Recursion
 |  |
 | ------- |
