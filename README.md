@@ -89,6 +89,7 @@ All Solutions
 | [0048-rotate-image](https://github.com/anshxio/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anshxio/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/anshxio/LeetCode/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/anshxio/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/anshxio/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/anshxio/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshxio/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -299,6 +300,7 @@ All Solutions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anshxio/LeetCode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/anshxio/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/anshxio/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/anshxio/LeetCode/tree/master/0200-number-of-islands) |
 | [0827-making-a-large-island](https://github.com/anshxio/LeetCode/tree/master/0827-making-a-large-island) |
@@ -632,6 +634,7 @@ All Solutions
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/anshxio/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [1920-build-array-from-permutation](https://github.com/anshxio/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshxio/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anshxio/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
