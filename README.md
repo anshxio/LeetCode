@@ -90,6 +90,7 @@ All Solutions
 | [0049-group-anagrams](https://github.com/anshxio/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/anshxio/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/anshxio/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/anshxio/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshxio/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshxio/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anshxio/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -446,6 +447,7 @@ All Solutions
 | [0040-combination-sum-ii](https://github.com/anshxio/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/anshxio/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/anshxio/LeetCode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/anshxio/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshxio/LeetCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/anshxio/LeetCode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/anshxio/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -455,6 +457,7 @@ All Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anshxio/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshxio/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/anshxio/LeetCode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/anshxio/LeetCode/tree/master/0187-repeated-dna-sequences) |
