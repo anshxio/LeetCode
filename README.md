@@ -248,6 +248,7 @@ All Solutions
 | [0257-binary-tree-paths](https://github.com/anshxio/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anshxio/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshxio/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/anshxio/LeetCode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/anshxio/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/anshxio/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/anshxio/LeetCode/tree/master/0721-accounts-merge) |
@@ -328,6 +329,7 @@ All Solutions
 | [0189-rotate-array](https://github.com/anshxio/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anshxio/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anshxio/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/anshxio/LeetCode/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshxio/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/anshxio/LeetCode/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anshxio/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
